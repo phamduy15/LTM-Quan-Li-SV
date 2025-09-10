@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   QUẢN LÍ SINH VIÊN BẰNG 
+   QUẢN LÍ SINH VIÊN BẰNG RMI
 </h2>
 <div align="center">
     <p align="center">
