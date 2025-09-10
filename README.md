@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   NETWORK PROGRAMMING
+   QUẢN LÍ SINH VIÊN BẰNG 
 </h2>
 <div align="center">
     <p align="center">
@@ -20,4 +20,4 @@
 </div>
 
 ## 📖 1. Giới thiệu
-Học phần trang bị cho người học những kiến thức nền tảng của lập trình mạng và các kỹ năng cần thiết để thiết kế và cài đặt các ứng dụng mạng và các chuẩn ở mức ứng dụng dựa trên mô hình Client/Server, có sử dụng các giao tiếp chương trình dựa trên Sockets. Kết thúc học phần, sinh viên có thể viết các chương trình ứng dụng mạng với giao thức tầng ứng dụng tự thiết kế.
+Đề tài “Quản lý sinh viên bằng RMI” được xây dựng nhằm minh họa cách áp dụng công nghệ Java RMI trong mô hình Client-Server. Ứng dụng cho phép quản lý sinh viên với các chức năng thêm, sửa, xóa, tìm kiếm; dữ liệu được lưu trong file văn bản. Phía Server xử lý và lưu trữ dữ liệu, trong khi Client cung cấp giao diện Java Swing để người dùng thao tác từ xa. Thông qua đó, hệ thống giúp người học hiểu rõ cơ chế lập trình phân tán với RMI và thực hành xây dựng ứng dụng quản lý trực quan, dễ sử dụng.
