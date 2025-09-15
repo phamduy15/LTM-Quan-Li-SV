@@ -63,5 +63,11 @@ Tài liệu và mã nguồn thuộc bản quyền của **AIoTLab, Khoa Công ng
 Người học được phép:
 - Sử dụng mã nguồn cho mục đích học tập và nghiên cứu.  
 - Chỉnh sửa và mở rộng để phục vụ bài tập, đồ án, hoặc nghiên cứu cá nhân.
+
+## Thông tin cá nhân
+**Họ tên**: Phạm Văn Duy.  
+**Lớp**: CNTT 16-03.  
+**Email**: phamvanduy150104@gmail.com.
+
   
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University.
