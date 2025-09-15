@@ -41,6 +41,8 @@
 - **Tìm kiếm sinh viên theo ID và tên**
   
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/9db424e3-1c97-432a-bd11-833abfe1cec8" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2603070e-c39f-4eee-90d3-8734b129eed1" />
+
 
 
 - Hiển thị danh sách sinh viên  
