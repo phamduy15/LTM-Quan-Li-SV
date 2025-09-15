@@ -28,10 +28,21 @@
 - Dữ liệu lưu trữ tạm thời bằng danh sách (List), có thể mở rộng sang File/Database  
 
 ## 🚀 3. Chức năng chính
-- Thêm sinh viên mới  
-- Cập nhật thông tin sinh viên  
-- Xóa sinh viên  
-- Tìm kiếm sinh viên theo ID hoặc tên  
+- **Thêm sinh viên mới**
+  
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3d3c5524-df8f-463f-8268-d3da2fd65928" />
+
+
+- **Cập nhật thông tin sinh viên**
+  
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8ceae136-2ef4-4da0-ad41-0cbf5bf04154" />
+
+
+- **Tìm kiếm sinh viên theo ID và tên**
+  
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/9db424e3-1c97-432a-bd11-833abfe1cec8" />
+
+
 - Hiển thị danh sách sinh viên  
 
 ## 🏗️ 4. Kiến trúc hệ thống
