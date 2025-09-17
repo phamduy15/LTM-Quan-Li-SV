@@ -29,21 +29,20 @@
 
 ## 🚀 3. Chức năng chính
 - **Thêm sinh viên mới**
-  
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3d3c5524-df8f-463f-8268-d3da2fd65928" />
 
+  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/4b4dc571-0b31-4944-8227-b8e685957391" />
 
 - **Cập nhật thông tin sinh viên**
-  
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8ceae136-2ef4-4da0-ad41-0cbf5bf04154" />
 
+  <img width="1351" height="821" alt="image" src="https://github.com/user-attachments/assets/593735fc-3433-41aa-9393-ed040cd3b81c" />
+
+- **Học phần, thêm học phần**
+
+  <img width="1350" height="820" alt="image" src="https://github.com/user-attachments/assets/bbf6497a-42c6-4abc-8fd8-de041e03d2a2" />
+
+- **
 
 - **Tìm kiếm sinh viên theo ID và tên**
-  
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/9db424e3-1c97-432a-bd11-833abfe1cec8" />
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2603070e-c39f-4eee-90d3-8734b129eed1" />
-
-
 
 - Hiển thị danh sách sinh viên  
 
