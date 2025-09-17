@@ -1,4 +1,4 @@
-<img width="1353" height="830" alt="image" src="https://github.com/user-attachments/assets/4ea3b24e-da44-4533-9d28-1193a7e05725" /><h2 align="center">
+<h2 align="center">
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
     🎓 Faculty of Information Technology (DaiNam University)
     </a>
@@ -36,21 +36,21 @@
 
   <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/593735fc-3433-41aa-9393-ed040cd3b81c" />
 
+- **Chi tiết thông tin sinh viên**
+
+  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/4830bbc2-fe6b-44b2-9897-2339135b04c5" />
+  
 - **Học phần, thêm học phần**
 
   <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/bbf6497a-42c6-4abc-8fd8-de041e03d2a2" />
 
 - **Điểm học phần**
 
- <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/3a4ea00f-e05c-419a-b657-577f01af2d46" />
+  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/3a4ea00f-e05c-419a-b657-577f01af2d46" />
 
 - **Chuyên cần**
 
- <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/a33f6e9a-e72a-4526-8380-a64dc33e67ef" />
-
-- **Chi tiết thông tin sinh viên**
-
- <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/4830bbc2-fe6b-44b2-9897-2339135b04c5" />
+  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/a33f6e9a-e72a-4526-8380-a64dc33e67ef" />
 
 ## 🏗️ 4. Kiến trúc hệ thống
 - **Server**: cung cấp dịch vụ quản lý sinh viên qua RMI  
