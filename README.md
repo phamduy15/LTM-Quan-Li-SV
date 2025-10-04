@@ -30,11 +30,11 @@
 ## 🚀 3. Chức năng chính
 - **Thêm sinh viên mới**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/4b4dc571-0b31-4944-8227-b8e685957391" />
+  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/09caa829-defe-40d6-81e9-560342719f82" />
 
 - **Cập nhật thông tin sinh viên**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/593735fc-3433-41aa-9393-ed040cd3b81c" />
+  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/7333fd13-7712-4a7c-bdb9-f7edcbb19c20" />
 
 - **Chi tiết thông tin sinh viên**
 
@@ -42,15 +42,16 @@
   
 - **Học phần, thêm học phần**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/bbf6497a-42c6-4abc-8fd8-de041e03d2a2" />
+  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/89bbe4cb-b4f8-4f99-abfd-50b64022920b" />
 
 - **Điểm học phần**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/3a4ea00f-e05c-419a-b657-577f01af2d46" />
+  <img width="610" height="370" alt="image" src="https://github.com/user-attachments/assets/8c1daefc-88bd-41d1-a6a3-f048b2450b1e" />
 
 - **Chuyên cần**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/a33f6e9a-e72a-4526-8380-a64dc33e67ef" />
+  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/53a8535f-2964-4325-ab6a-733be4d7a0a0" />
+
 
 ## 🏗️ 4. Kiến trúc hệ thống
 - **Server**: cung cấp dịch vụ quản lý sinh viên qua RMI  
