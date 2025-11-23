@@ -30,27 +30,27 @@
 ## 🚀 3. Chức năng chính
 - **Thêm sinh viên mới**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/09caa829-defe-40d6-81e9-560342719f82" />
+  <img width="1350" height="782" alt="image" src="https://github.com/user-attachments/assets/4d843450-c146-402d-bb89-0b430a0c94e3" />
 
 - **Cập nhật thông tin sinh viên**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/7333fd13-7712-4a7c-bdb9-f7edcbb19c20" />
+  <img width="562" height="433" alt="image" src="https://github.com/user-attachments/assets/c45699d8-b804-4870-a158-dedec1b089c7" />
 
 - **Chi tiết thông tin sinh viên**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/4830bbc2-fe6b-44b2-9897-2339135b04c5" />
-  
+  <img width="1020" height="677" alt="image" src="https://github.com/user-attachments/assets/36220ea8-1af3-47d4-b5e3-290873384271" />
+
 - **Học phần, thêm học phần**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/89bbe4cb-b4f8-4f99-abfd-50b64022920b" />
+  <img width="1352" height="772" alt="image" src="https://github.com/user-attachments/assets/5562239e-e35c-483f-b40f-6934245d6b03" />
 
 - **Điểm học phần**
 
-  <img width="610" height="370" alt="image" src="https://github.com/user-attachments/assets/8c1daefc-88bd-41d1-a6a3-f048b2450b1e" />
+  <img width="1349" height="777" alt="image" src="https://github.com/user-attachments/assets/f11f8801-2654-4b41-9d33-1d51ad454c5b" />
 
 - **Chuyên cần**
 
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/53a8535f-2964-4325-ab6a-733be4d7a0a0" />
+  <img width="1349" height="778" alt="image" src="https://github.com/user-attachments/assets/7e2bce50-e851-467f-b3d3-1e90f168c7c7" />
 
 
 ## 🏗️ 4. Kiến trúc hệ thống
