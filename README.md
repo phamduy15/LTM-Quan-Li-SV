@@ -58,7 +58,9 @@
 - **Client**: ứng dụng giao diện Swing gọi phương thức từ xa trên server  
 - **Student**: lớp đối tượng mô tả thông tin sinh viên (id, name, age, email)  
 - **StudentManagement**: interface định nghĩa các phương thức RMI  
-- **StudentManagementImpl**: cài đặt interface, xử lý dữ liệu  
+- **StudentManagementImpl**: cài đặt interface, xử lý dữ liệu
+
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/075ad631-5479-42e0-ab99-a2f630aaa55e" />
 
 ## 🎯 5. Mục tiêu học tập
 - Hiểu và triển khai mô hình Client/Server với RMI  
